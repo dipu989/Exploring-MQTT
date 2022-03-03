@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exploring MQTT</string>
+    <string name="action_settings">Settings</string>
+    <string name="messages_received">Message counter:</string>
+    <string name="publish_to_topic">Publish to topic</string>
+    <string name="publish">Publish</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribe_to_topic">Subscribe to topic</string>
+    <string name="message_payload">Type message here</string>
+    <string name="heading_msg_payload">Received Messages</string>
+    
+    <!-- Topics defined in broker -->
+
+    <string name="battery_status_topic">battery-percentage</string>
+    <string name="cpu_temperature_topic">cpu-temperature</string>
+</resources>
